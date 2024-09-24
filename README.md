@@ -1,9 +1,10 @@
-<H3>Suji.G</H3>
-<H3>212222230152</H3>
-<H3>EX. NO.3</H3>
-<H3>DATE:24.09.24</H3>
-<H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
-</H1>
+```
+ENTER YOUR NAME: Suji.G
+ENTER YOUR REGISTER NO: 212222230152
+```
+EX. NO.3
+DATE- 24-09-2024
+<H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks</H1>
 
 ### Aim: 
    To construct a python program to implement approximate inference using Gibbs Sampling.

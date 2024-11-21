@@ -1,9 +1,7 @@
-```
-ENTER YOUR NAME: Suji.G
-ENTER YOUR REGISTER NO: 212222230152
-```
-EX. NO.3
-DATE- 24-09-2024
+<H3> Name </H3>Suji.G
+<H3>Register No.</H3>212222230152
+<H3> Experiment 3</H3>
+<H3>DATE:</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks</H1>
 
 ### Aim: 
